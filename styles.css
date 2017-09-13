@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .header-title {
   background-color: black;
   color: white;
@@ -27,9 +31,13 @@ nav li {
 .img-footer {
   background-color: gold;
   color: purple;
-  display: inline; 
+  display: inline;
 }
 
 footer.img-footer p {
   display: inline;
+}
+
+img {
+  margin 5px;
 }
