@@ -3,3 +3,33 @@
   color: white;
   text-align: center;
 }
+
+h2 {
+  background-color: turquoise;
+  color: black;
+}
+
+nav {
+  text-align: center;
+  color: white;
+  background-color: grey;
+}
+
+nav li {
+  list-style-type: none;
+  display: inline;
+}
+
+.section {
+  text-align: center;
+}
+
+.img-footer {
+  background-color: gold;
+  color: purple;
+  display: inline; 
+}
+
+footer.img-footer p {
+  display: inline;
+}
