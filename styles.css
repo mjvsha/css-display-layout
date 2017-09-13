@@ -24,11 +24,13 @@ nav li {
   display: inline;
 }
 
+.gallery {
+  display: block;
+}
 
 .img-footer {
   background-color: gold;
   color: purple;
-  display: inline;
 }
 
 footer.img-footer p {
