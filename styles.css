@@ -28,6 +28,10 @@ nav li {
   display: block;
 }
 
+.section {
+  display: inline-block; 
+}
+
 .img-footer {
   background-color: gold;
   color: purple;
