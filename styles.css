@@ -25,31 +25,41 @@ nav li {
 }
 
 .gallery {
-  display: block;
+    display: inline-block;
+    width: 200px;
 }
 
 
-
 .section {
-  display: inline-block;
+      width: 700px;
+      height: 450px;
+      display: block;
+      margin: auto;
 
 }
 
 .all-photos {
-  width: 700px;
-  margin: 0 auto;
-
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .img-footer {
-  background-color: gold;
-  color: purple;
-}
+    background-color: gold;
+    color: purple;
+    display: block;
+    width: 200px;
+    text-align: center;
 
+}
+/*
 footer.img-footer p {
   display: inline;
-}
+} */
 
 img {
-  margin 5px;
+  margin 0 auto;
+  width: 200px;
+  display: inline-block;
 }
