@@ -28,8 +28,17 @@ nav li {
   display: block;
 }
 
+
+
 .section {
-  display: inline-block; 
+  display: inline-block;
+
+}
+
+.all-photos {
+  width: 700px;
+  margin: 0 auto;
+
 }
 
 .img-footer {
